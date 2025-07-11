@@ -11,3 +11,9 @@ In the past year or so I have completed a number of online courses, such a cours
 
 In terms of my soft skills, I feel i'm a good communicator and am confident in my ability to lead. I am experienced in working with others and leading groups from the physics competitions I took part in this year, in which I was leading the business department of 8+ members. I am also very good at managing my time and ensure I set priorities when it comes to completing work to the highest possible standard. I have always taken a proactive approach when it comes to my learning, seeking out help if I need it and always have a sense of urgency with this. 
 
+Here are links to some of the work I have completed this year:
+
+C CHAPTER 1: https://github.com/BHASVIC-CompSci/c-chapter1-BHASVIC-AlexWilkins24
+Java CHAPTER 1: https://github.com/BHASVIC-CompSci/AlexWilkins24-Jack-JavaCourse
+Java CHAPTER 7: https://github.com/BHASVIC-CompSci/c-chapter7-strings-BHASVIC-AlexWilkins24
+
