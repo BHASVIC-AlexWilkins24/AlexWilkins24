@@ -13,7 +13,7 @@ In terms of my soft skills, I feel i'm a good communicator and am confident in m
 
 Here are links to some of the work I have completed this year:
 
-C CHAPTER 1: https://github.com/BHASVIC-CompSci/c-chapter1-BHASVIC-AlexWilkins24
-Java CHAPTER 1: https://github.com/BHASVIC-CompSci/AlexWilkins24-Jack-JavaCourse
-Java CHAPTER 7: https://github.com/BHASVIC-CompSci/c-chapter7-strings-BHASVIC-AlexWilkins24
+# C CHAPTER 1: https://github.com/BHASVIC-CompSci/c-chapter1-BHASVIC-AlexWilkins24
+# Java CHAPTER 1: https://github.com/BHASVIC-CompSci/AlexWilkins24-Jack-JavaCourse
+# Java CHAPTER 7: https://github.com/BHASVIC-CompSci/c-chapter7-strings-BHASVIC-AlexWilkins24
 
