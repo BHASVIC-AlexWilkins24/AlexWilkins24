@@ -13,13 +13,13 @@ In terms of my soft skills, I feel i'm a good communicator and am confident in m
 
 Here are links to some of the work I have completed this year:
 
-# C CHAPTER 1: https://github.com/BHASVIC-CompSci/c-chapter1-BHASVIC-AlexWilkins24
-# C CHAPTER 4: https://github.com/BHASVIC-CompSci/c-chapter4-iteration-BHASVIC-AlexWilkins24
-# C CHAPTER 7: https://github.com/BHASVIC-CompSci/c-chapter7-strings-BHASVIC-AlexWilkins24
-# Java COURSE 1: https://github.com/BHASVIC-CompSci/AlexWilkins24-Jack-JavaCourse
-# Java COURSE 2: https://github.com/BHASVIC-CompSci/AlexWilkins-Jack-JavaCourse2/tree/main
-# Java COURSE 3: https://github.com/BHASVIC-CompSci/AlexWilkins---Jack---JavaCourse3
-# Java COURSE 4:https://github.com/BHASVIC-CompSci/AlexWilkins---Jack---JavaCourse4
-# Animalopoly group project: https://github.com/BHASVIC-CompSci/animalopoly-BHASVIC-AlexWilkins24 - note this was a group project 
-# Hotel Kashyk group project:https://github.com/BHASVIC-willmoore24/HotelKashyyyk - note this a link to the repository which was created by another member of the group so cannot take full credit for the work shown
+CHAPTER 1: https://github.com/BHASVIC-CompSci/c-chapter1-BHASVIC-AlexWilkins24
+C CHAPTER 4: https://github.com/BHASVIC-CompSci/c-chapter4-iteration-BHASVIC-AlexWilkins24
+C CHAPTER 7: https://github.com/BHASVIC-CompSci/c-chapter7-strings-BHASVIC-AlexWilkins24
+Java COURSE 1: https://github.com/BHASVIC-CompSci/AlexWilkins24-Jack-JavaCourse
+Java COURSE 2: https://github.com/BHASVIC-CompSci/AlexWilkins-Jack-JavaCourse2/tree/main
+Java COURSE 3: https://github.com/BHASVIC-CompSci/AlexWilkins---Jack---JavaCourse3
+Java COURSE 4:https://github.com/BHASVIC-CompSci/AlexWilkins---Jack---JavaCourse4
+Animalopoly group project: https://github.com/BHASVIC-CompSci/animalopoly-BHASVIC-AlexWilkins24 - note this was a group project 
+Hotel Kashyk group project:https://github.com/BHASVIC-willmoore24/HotelKashyyyk - note this a link to the repository which was created by another member of the group so cannot take full credit for the work shown
 
